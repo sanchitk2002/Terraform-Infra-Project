@@ -1,0 +1,16 @@
+1. Select the Region
+2. Create VPC
+3. Enable DNS Host Name in the VPC
+4. Create Internet Gateway
+5. Attach Internet Gateway to VPC
+6. Create Public Subnets
+7. Enable Auto Assign Public IP Settings
+8. Create Public Route Table
+9. Add Public Route to the Public Route Table
+10. Associate the Public Subnets with the Public Route Table
+11. Create the Private Subnets
+12. Create NAT Gateway in Public Subnet
+13. Create an EIP and Associate it to the NAT Gateways
+14. Create Private Route Table
+15. Add Public Route to the Private Route Table
+16. Associate the Private Subnets with the Private Route Table.
